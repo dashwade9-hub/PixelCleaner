@@ -1,0 +1,16 @@
+.gradle
+.idea
+local.properties
+*.iml
+*.apk
+*.aar
+*.so
+.DS_Store
+build/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
